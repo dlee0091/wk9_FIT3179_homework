@@ -23,7 +23,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "data/wrangled_global_unemployment_data.csv"
+              "url": "https://raw.githubusercontent.com/dlee0091/wk9_FIT3179_homework/refs/heads/main/data/wrangled_global_unemployment_data.csv"
             },
             "key": "country_name",
             "fields": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
